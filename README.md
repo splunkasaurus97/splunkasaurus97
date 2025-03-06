@@ -8,10 +8,10 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
 
 | Managed Services and Product Shortcuts        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk Dashboards And Scripts                 | <a href="https://github.com/splunkasaurus97/wazuhasaurus">wazuhasaurus</a> |
+| Splunk Dashboards And Scripts                 | <a href="https://github.com/splunkasaurus97/splunkasaurus">splunkasaurus</a> |
 | Fleet Device Management                       | <a href="https://github.com/splunkasaurus97/fleetasaurus">Fleetasaurus</a> |
 | AWS Security and Engineering                  | <a href="https://github.com/splunkasaurus97/awsasaurus">awsasaurus</a> |
-| Wazuh XDR                                     | <a href="https://github.com/splunkasaurus97/splunkasaurus">wazuhasaurus</a> |
+| Wazuh XDR                                     | <a href="https://github.com/splunkasaurus97/wazuhasaurus">wazuhasaurus</a> |
 | Random Ninja Stars/Swords                     | <a href="https://github.com/splunkasaurus97/Randomasaurus">Randomasaurus</a> |
 
 ### Network Tool Proficiencies

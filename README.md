@@ -8,7 +8,7 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
 
 | Managed Services and Product Shortcuts        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Fleet Device Management                       | <a href="https://github.com/splunkasaurus97/fleetasaurus"/a>|
+| Fleet Device Management                       | <a href="https://github.com/splunkasaurus97/fleetasaurus">Fleetasaurus</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

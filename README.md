@@ -4,16 +4,11 @@
 Prehistoric Cyber Ninjasausus with actual Enterprise IT experience ---> Cyber Blue team experience ---> Cyber Counter-Intelligence experience ---> BDP experience ---> DevSecOPs experience ---> and now Cloud Security experience in the AWS Govcloud space as the Cloud Security Engineer (also administering multiple supporting servers within the AWS Govcloud). From log to dashboard and all actions inbetween, I do it. Sadly, specialization is what the industry is looking for. I don't see any Cyber Cloud swiss army knife positions and this makes me a sad Splunkasaurus. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 2025) to dump my products in to help other *sauruses, ninjas, etc in this mad crazy cyber security and voodoo engineering world. Also, because cut and paste is a time effective strategy of greatness. If your reading this as a recruiter, just know I'm not a read dinosaur, I just play one on Github. 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
+| Managed Services and Product Shortcuts        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Fleet Device Management                       | <a href="https://github.com/splunkasaurus97/fleetasaurus"/a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

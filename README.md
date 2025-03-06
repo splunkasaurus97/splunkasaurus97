@@ -1,7 +1,5 @@
-# Hello, I'm CHANGEME
-<a href="[https://linkedin.com](https://www.linkedin.com/in/james-wilburn-26770667/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-James (Tom) Wilburn - Splunkasaurus97
+# James (Tom) Wilburn - Splunkasaurus97
+<a href="https://www.linkedin.com/in/james-wilburn-26770667/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Prehistoric Cyber Ninjasausus with actual Enterprise IT experience ---> Cyber Blue team experience ---> Cyber Counter-Intelligence experience ---> BDP experience ---> DevSecOPs experience ---> and now Cloud Security experience in the AWS Govcloud space as the Cloud Security Engineer (also administering multiple supporting servers within the AWS Govcloud). From log to dashboard and all actions inbetween, I do it. Sadly, specialization is what the industry is looking for. I don't see any Cyber Cloud swiss army knife positions and this makes me a sad Splunkasaurus. 
 

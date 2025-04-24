@@ -78,7 +78,7 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
 <img src="https://img.shields.io/badge/-N+-E22E2F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Current Projects
+## Current Projects (as of 24 April 2025)
 - Certified Kubernetes Administration (CKA Certification) - <a href="https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests">Training-Completed</a>
 - AWS EKS Kubernetes-Masterclass | DevOps, Microservices - <a href="https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices">Training</a>
 

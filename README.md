@@ -79,8 +79,8 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
 </div>
 
 ## Current Projects
-- Observability Study
-- Auto Incident Response via AWS
+- Certified Kubernetes Administration (CKA Certification) - <a href="https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests">Training-Completed</a>
+- AWS EKS Kubernetes-Masterclass | DevOps, Microservices - <a href="https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices">Training</a>
 
 ## Completed Projects
 - Agent integration into team pipelines   - Site Reliability Reporting/Dashboards   - XDR Integration (Wazuh)

@@ -27,6 +27,7 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
      
 ### Endpoint Services
 <div>
+    <img src="https://img.shields.io/badge/-Windows_Defender-5897FB?&style=for-the-badge&logo=FleetDM&logoColor=white" />                                <img src="https://img.shields.io/badge/-Trellix-3E1BFF?&style=for-the-badge&logo=FleetDM&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fleet_Device_Management-3E4771?&style=for-the-badge&logo=FleetDM&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-5690FA?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-485A68?&style=for-the-badge&logo=Nessus&logoColor=white" />
@@ -59,6 +60,7 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
 <img src="https://img.shields.io/badge/-POWER_USER-6BA93F?&style=for-the-badge&logo=SPLUNK&logoColor=white" />
 <img src="https://img.shields.io/badge/-ENTERPRISE_ADMIN-6BA93F?&style=for-the-badge&logo=SPLUNK&logoColor=white" />
 <img src="https://img.shields.io/badge/-CYBERSECURITY_DEFENSE_ANALYST-6BA93F?&style=for-the-badge&logo=SPLUNK&logoColor=white" />
+<img src="https://img.shields.io/badge/-ENTERPRISE_SECURITY_ADMINISTRATOR-6BA93F?&style=for-the-badge&logo=SPLUNK&logoColor=white" />
 <img src="https://img.shields.io/badge/-S+-E22E2F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-L+-E22E2F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>

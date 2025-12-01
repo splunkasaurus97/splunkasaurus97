@@ -26,8 +26,7 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
      </div>
      
 ### Endpoint Services
-<div>
-     <img src="https://img.shields.io/badge/-JAMF-056AE6&style=for-the-badge&logo=FleetDM&logoColor=white" />                                                                                <img src="https://img.shields.io/badge/-Windows_Defender-5897FB?&style=for-the-badge&logo=FleetDM&logoColor=white" />                                                                                    <img src="https://img.shields.io/badge/-Trellix-3E1BFF?&style=for-the-badge&logo=FleetDM&logoColor=white" />
+<div>                                                                                                <img src="https://img.shields.io/badge/-Windows_Defender-5897FB?&style=for-the-badge&logo=FleetDM&logoColor=white" />                                                                                    <img src="https://img.shields.io/badge/-Trellix-3E1BFF?&style=for-the-badge&logo=FleetDM&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fleet_Device_Management-3E4771?&style=for-the-badge&logo=FleetDM&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-5690FA?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-485A68?&style=for-the-badge&logo=Nessus&logoColor=white" />

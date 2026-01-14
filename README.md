@@ -46,14 +46,11 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
 <div>
 <img src="https://img.shields.io/badge/-CISSP-468145?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-CISM-6CB243?&style=for-the-badge&logo=ISACA&logoColor=white" />
-<img src="https://img.shields.io/badge/-GSNA-A8933D?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-Associate_C|CISO-E51F24?&style=for-the-badge&logo=EC-COUNCIL&logoColor=white" />
-<img src="https://img.shields.io/badge/-CTIA-E51F24?&style=for-the-badge&logo=EC-COUNCIL&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH-E51F24?&style=for-the-badge&logo=EC-COUNCIL&logoColor=white" />
 <img src="https://img.shields.io/badge/-CTIA-E51F24?&style=for-the-badge&logo=EC-COUNCIL&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS_PRACTITIONER-EC9D18?&style=for-the-badge&logo=AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS_AI_PRACTITIONER-EC9D18?&style=for-the-badge&logo=AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS_SOLUTIONS_ARCHITECT-EC9D18?&style=for-the-badge&logo=AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS_SECURITY-EC9D18?&style=for-the-badge&logo=AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-USER-6BA93F?&style=for-the-badge&logo=SPLUNK&logoColor=white" />
 <img src="https://img.shields.io/badge/-POWER_USER-6BA93F?&style=for-the-badge&logo=SPLUNK&logoColor=white" />
@@ -75,6 +72,7 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
 <img src="https://img.shields.io/badge/-CCNP_Switch-1D3F44?&style=for-the-badge&logo=CISCO&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA_Wireless-1D3F44?&style=for-the-badge&logo=CISCO&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA_x_3-1D3F44?&style=for-the-badge&logo=CISCO&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS_SOLUTIONS_ARCHITECT-EC9D18?&style=for-the-badge&logo=AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-A+-E22E2F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-N+-E22E2F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>

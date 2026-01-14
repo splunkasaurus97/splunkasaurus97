@@ -40,7 +40,7 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
     <img src="https://img.shields.io/badge/-Splunk-6BA93F?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS_SIEM-EC9D18?&style=for-the-badge&logo=AWS_SIEM&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-5690FA?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/-Sentinel-5690FA?&style=for-the-badge&logo=Wazuh&logoColor=white" /></div>
 
 ## Active Certifications
 <div>

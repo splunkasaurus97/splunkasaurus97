@@ -4,7 +4,7 @@
 Prehistoric Cyber Ninjasausus with actual Enterprise IT experience ---> Cyber Blue team experience ---> Cyber Counter-Intelligence experience ---> BDP experience ---> DevSecOPs experience ---> and now Cloud Security experience in the AWS Govcloud space as the Cloud Security Engineer (also administering multiple supporting servers within the AWS Govcloud). From log to dashboard and all actions inbetween, I do it. Sadly, specialization is what the industry is looking for. I don't see any Cyber Cloud swiss army knife positions and this makes me a sad Splunkasaurus. 
 
 ## Objective
-Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 2025) to dump my products in to help other *sauruses, ninjas, etc in this mad crazy cyber security and voodoo engineering world. Also, because cut and paste is a time effective strategy of greatness. If your reading this as a recruiter, just know I'm not a read dinosaur, I just play one on Github. 
+Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 2025) to dump my products in to help other *sauruses, ninjas, etc in this mad crazy cyber security and voodoo engineering world. Also, because cut and paste is a time effective strategy of greatness. If your reading this as a recruiter, just know I'm not a real dinosaur, I just play one on Github. 
 
 | Managed Services and Product Shortcuts        | Associated Project         |
 |-----------------------------------------------|----------------------------|

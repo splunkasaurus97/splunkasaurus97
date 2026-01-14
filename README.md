@@ -67,6 +67,7 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
 <img src="https://img.shields.io/badge/-GPEN-A8933D?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-GSNA-A8933D?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-GCWN-A8933D?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<img src="https://img.shields.io/badge/-GCFA-A8933D?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-GCIH-A8933D?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-GSEC-A8933D?&style=for-the-badge&logo=GIAC&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNP_Switch-1D3F44?&style=for-the-badge&logo=CISCO&logoColor=white" />

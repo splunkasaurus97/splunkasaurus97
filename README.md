@@ -52,7 +52,7 @@ Beware, Thar be sarcastic dragons ahead! This is my prehistoric dojo (made in 20
 <img src="https://img.shields.io/badge/-AWS_PRACTITIONER-EC9D18?&style=for-the-badge&logo=AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS_AI_PRACTITIONER-EC9D18?&style=for-the-badge&logo=AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS_SECURITY-EC9D18?&style=for-the-badge&logo=AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-AZURE_FUNDAMENTALS-EC9D18?&style=for-the-badge&logo=AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-AZURE_FUNDAMENTALS-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/-USER-6BA93F?&style=for-the-badge&logo=SPLUNK&logoColor=white" />
 <img src="https://img.shields.io/badge/-POWER_USER-6BA93F?&style=for-the-badge&logo=SPLUNK&logoColor=white" />
 <img src="https://img.shields.io/badge/-ENTERPRISE_ADMIN-6BA93F?&style=for-the-badge&logo=SPLUNK&logoColor=white" />
